@@ -8,5 +8,6 @@
 </head>
 <body>
   <p><h2>Tienda de Mascotas</h2></p>  
+  <p><h3>Detalle Mascotas</h3></p>
 </body>
 </html>
